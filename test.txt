@@ -1,7 +1,2 @@
-hello world, Im a new wokrker
-nihao ma  friend
-nihao friend
-add some info
-add hello
-nihaoooooo
-add line
+Git is a distributed version control system.
+Git is free software
